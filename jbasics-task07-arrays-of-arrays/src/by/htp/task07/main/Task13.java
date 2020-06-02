@@ -44,15 +44,6 @@ public class Task13 {
 
 	}
 
-	public static void InitWithZero(int ar[][]) {
-
-		for (int i = 0; i < ar.length; i++) {
-			for (int j = 0; j < ar[i].length; j++) {
-				ar[i][j] = 0;
-			}
-		}
-	}
-
 	public static void PrintArray(int ar[][]) {
 
 		for (int i = 0; i < ar.length; i++) {
