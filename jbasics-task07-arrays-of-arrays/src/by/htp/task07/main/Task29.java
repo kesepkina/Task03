@@ -2,7 +2,7 @@ package by.htp.task07.main;
 
 import java.util.Random;
 
-// Найти положительные элементы главной диагонали квадратной матрицы.
+// РќР°Р№С‚Рё РїРѕР»РѕР¶РёС‚РµР»СЊРЅС‹Рµ СЌР»РµРјРµРЅС‚С‹ РіР»Р°РІРЅРѕР№ РґРёР°РіРѕРЅР°Р»Рё РєРІР°РґСЂР°С‚РЅРѕР№ РјР°С‚СЂРёС†С‹.
 
 public class Task29 {
 
@@ -25,7 +25,7 @@ public class Task29 {
 	public static void PositivesOnTheMainDiagonal(int ar[][]) {
 
 		boolean ifThereAre = false;
-		System.out.print("Положительные элементы главной диагонали квадратной матрицы: ");
+		System.out.print("РџРѕР»РѕР¶РёС‚РµР»СЊРЅС‹Рµ СЌР»РµРјРµРЅС‚С‹ РіР»Р°РІРЅРѕР№ РґРёР°РіРѕРЅР°Р»Рё РєРІР°РґСЂР°С‚РЅРѕР№ РјР°С‚СЂРёС†С‹: ");
 
 		for (int i = 0; i < ar.length; i++) {
 			if (ar[i][i] > 0) {
@@ -35,7 +35,7 @@ public class Task29 {
 		}
 
 		if (!ifThereAre) {
-			System.out.println("таких нет.");
+			System.out.println("С‚Р°РєРёС… РЅРµС‚.");
 		}
 		System.out.println();
 

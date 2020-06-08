@@ -2,7 +2,7 @@ package by.htp.task07.main;
 
 import java.util.Random;
 
-// Найдите произведение двух матриц.
+// РќР°Р№РґРёС‚Рµ РїСЂРѕРёР·РІРµРґРµРЅРёРµ РґРІСѓС… РјР°С‚СЂРёС†.
 
 public class Task39 {
 

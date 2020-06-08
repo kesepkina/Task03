@@ -2,7 +2,7 @@ package by.htp.task07.main;
 
 import java.util.Random;
 
-// Найдите сумму двух матриц.
+// РќР°Р№РґРёС‚Рµ СЃСѓРјРјСѓ РґРІСѓС… РјР°С‚СЂРёС†.
 
 public class Task38 {
 
